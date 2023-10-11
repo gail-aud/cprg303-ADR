@@ -1,0 +1,3 @@
+Scenario: 
+
+	A high-quality application that fully utilizes the capabilities of the target platform and offers a smooth user experience is the outcome of deciding to design a native app. Native application ensures the best performance and user happiness since they can take use of device-specific capabilities and follow each platform’s UI requirements. Compared to alternative methods, creating a native app could take more time and money, but the end product is a well-optimized program with improved performance across all platforms. In general, choosing a create a native app for the retail industry will provide a high-quality application that offers a consistent user experience and fully utilizes the potential of the target devices.
